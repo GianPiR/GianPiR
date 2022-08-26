@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Back-end Developer on Riderize 🚴 <br>
+Back-End Developer on Riderize 🚴 <br>
 Studying Computer Science on IFC - Rio do Sul <br>
 Santa Catarina - Brazil <br>
 
